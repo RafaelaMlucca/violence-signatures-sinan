@@ -2,8 +2,6 @@
 
 Análise comparativa de algoritmos de aprendizado de máquina aplicada a 2,2 milhões de notificações de violência do SINAN (Sistema de Informação de Agravos de Notificação — Ministério da Saúde do Brasil).
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Licença](https://img.shields.io/badge/licença-MIT-lightgrey)
 
 ## Sobre
 
