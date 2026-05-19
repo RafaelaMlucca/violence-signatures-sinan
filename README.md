@@ -47,14 +47,10 @@ No início de cada notebook, ajuste a variável `PROJECT_PATH` para o diretório
 
 Os microdados do SINAN são públicos e baixados automaticamente pelo notebook `01`. O módulo de acesso público não disponibiliza nomes ou identificadores individuais.
 
-## Considerações éticas
-
-Este é um trabalho de compreensão epidemiológica — identificar fatores associados a cada tipo de violência para informar políticas públicas. Não é um instrumento de triagem ou predição de risco individual. Os notebooks discutem os vieses dos dados de notificação (subnotificação, viés de preenchimento) e os limites de eventuais aplicações.
-
 ## Autora
 
 **Rafaela Lucca** — Doutoranda, ICMC/USP
 
 ## Licença
 
-MIT. Os microdados do SINAN são de domínio público (Ministério da Saúde do Brasil).
+Os microdados do SINAN são de domínio público (Ministério da Saúde do Brasil).
